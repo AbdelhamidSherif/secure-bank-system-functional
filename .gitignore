@@ -1,0 +1,25 @@
+# Visual Studio specific
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build folders
+x64/
+Debug/
+Release/
+build/
+bin/
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+
+# System files
+.DS_Store
+Thumbs.db

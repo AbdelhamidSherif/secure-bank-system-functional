@@ -1,0 +1,7 @@
+Admin#//#password123#//#-1
+manager_john#//#secure456#//#-1
+teller_sarah#//#bank789#//#51
+supervisor_mike#//#super321#//#63
+trainee_emma#//#temp999#//#17
+accountant_david#//#acc2024#//#35
+branch_head#//#head555#//#-1
