@@ -31,8 +31,8 @@ This secure functional version demonstrates how complex security requirements ca
 This secure version builds upon the enhanced transaction system with enterprise-level features:
 
 > 📌 **Want to see the evolution?** Check out:
-> - [Basic Version](https://github.com/yourusername/bank-management-functional-cpp) - Simple CRUD operations
-> - [Enhanced Version](https://github.com/yourusername/enhanced-bank-system-functional) - Added transactions
+> - [Basic Version](https://github.com/AbdelhamidSherif/bank-management-functional-cpp) - Simple CRUD operations
+> - [Enhanced Version](https://github.com/AbdelhamidSherif/enhanced-bank-system-functional) - Added transactions
 
 ### ✨ Major Security Additions
 
@@ -128,7 +128,7 @@ enum enMainMenuePermissions {
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/secure-bank-system-functional.git
+   git clone https://github.com/AbdelhamidSherif/secure-bank-system-functional.git
    cd secure-bank-system-functional
    ```
 
@@ -310,16 +310,16 @@ secure-bank-system-functional/
 This project completes the banking system series demonstrating programming paradigm evolution:
 
 ### 📂 **Project Evolution Timeline:**
-1. **[Basic Bank Management](https://github.com/yourusername/bank-management-functional-cpp)** - Functional programming with CRUD operations
-2. **[Enhanced Bank System](https://github.com/yourusername/enhanced-bank-system-functional)** - Added complete transaction management
+1. **[Basic Bank Management](https://github.com/AbdelhamidSherif/bank-management-functional-cpp)** - Functional programming with CRUD operations
+2. **[Enhanced Bank System](https://github.com/AbdelhamidSherif/enhanced-bank-system-functional)** - Added complete transaction management
 3. **Current Project** - Enterprise security with user authentication and permissions
 4. **Coming Soon** - Object-Oriented Programming (OOP) version for architectural comparison
 
 ### 🔄 **Quick Navigation:**
-- 🏃‍♂️ **[Go to Basic Version →](https://github.com/yourusername/bank-management-functional-cpp)** - Learn the fundamentals
-- 🔄 **[View Enhanced Version →](https://github.com/yourusername/enhanced-bank-system-functional)** - See transaction features
-- 🚀 **[View OOP Version →](https://github.com/yourusername/bank-system-oop-cpp)** - Coming soon with class-based design
-- 📚 **[See All Banking Projects →](https://github.com/yourusername?tab=repositories&q=bank&type=&language=)** - Complete collection
+- 🏃‍♂️ **[Go to Basic Version →](https://github.com/AbdelhamidSherif/bank-management-functional-cpp)** - Learn the fundamentals
+- 🔄 **[View Enhanced Version →](https://github.com/AbdelhamidSherif/enhanced-bank-system-functional)** - See transaction features
+- 🚀 **[View OOP Version →](https://github.com/AbdelhamidSherif/bank-system-oop-cpp)** - Coming soon with class-based design
+- 📚 **[See All Banking Projects →](https://github.com/AbdelhamidSherif?tab=repositories&q=bank&type=&language=)** - Complete collection
 
 ## 🤝 Contributing
 
