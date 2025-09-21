@@ -116,38 +116,6 @@ enum enMainMenuePermissions {
 - **Manager**: All permissions except User Management = 63
 - **Administrator**: -1 (Complete system access)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- C++ compiler (GCC, MSVC, or Clang)
-- Standard C++ libraries
-- Windows OS (due to `system("cls")` and `system("pause>0")` commands)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/AbdelhamidSherif/secure-bank-system-functional.git
-   cd secure-bank-system-functional
-   ```
-
-2. **Compile the program**
-   ```bash
-   g++ -o secure_bank_system main.cpp
-   ```
-
-3. **Initial Setup**
-   Create an initial admin user in `Users.txt`:
-   ```
-   Admin#//#password#//##-1
-   ```
-
-4. **Run the application**
-   ```bash
-   ./secure_bank_system
-   ```
-
 ## 📋 Usage
 
 ### Initial Login
