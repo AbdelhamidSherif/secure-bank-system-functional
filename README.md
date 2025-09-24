@@ -286,7 +286,7 @@ This project completes the banking system series demonstrating programming parad
 ### 🔄 **Quick Navigation:**
 - 🏃‍♂️ **[Go to Basic Version →](https://github.com/AbdelhamidSherif/bank-management-functional-cpp)** - Learn the fundamentals
 - 🔄 **[View Enhanced Version →](https://github.com/AbdelhamidSherif/enhanced-bank-system-functional)** - See transaction features
-- 🚀 **[View OOP Version →](https://github.com/AbdelhamidSherif/bank-system-oop-cpp)** - Coming soon with class-based design
+- 🚀 **[View OOP Version →](https://github.com/AbdelhamidSherif/complete-bank-system-oop-cpp)** - Coming soon with class-based design
 - 📚 **[See All Banking Projects →](https://github.com/AbdelhamidSherif?tab=repositories&q=bank&type=&language=)** - Complete collection
 
 ## 🤝 Contributing
